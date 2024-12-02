@@ -1,0 +1,61 @@
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #0b0c0d;
+    
+  }
+  
+  table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    width: 50%;
+    height: 500px;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  table th {
+    background-color: #656765;
+    color: white;
+  }
+  
+  /* table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  } */
+  
+  /* table tr:hover {
+    background-color: #ddd;
+  } */
+  
+  .buttons {
+    margin: 20px;
+  }
+  
+  button {
+    background-color: #656665;
+    color: white;
+    /* border: none; */
+    padding: 10px 20px;
+    margin: 5px;
+    /* cursor: pointer; */
+    /* border-radius: 5px; */
+  }
+  
+  /* button:hover {
+    background-color: #45a049;
+  }
+   */
+  .results {
+    margin: 20px;
+    font-size: 1.2em;
+    color: #2c3e50;
+  }
+  

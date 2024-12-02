@@ -1,0 +1,12 @@
+.Box1{
+    display: flex;
+    justify-content: center;
+
+    border:  2px solid brown;
+}
+.Content{
+    border: 2px solid black;
+    margin: 20px;
+    width:  50%;
+
+}

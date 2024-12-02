@@ -1,0 +1,13 @@
+.box1{
+    color: rgb(68, 34, 34);
+    /* width: 500px; */
+    background-color: rgb(229, 232, 232);
+    /* border:  2px solid black; */
+    
+}
+button{
+ margin: 20px;
+    height: 40px;
+    width: 100px;
+    font-weight: 700;
+}

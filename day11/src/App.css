@@ -1,0 +1,102 @@
+/* .box1{
+  border: 2px solid black;
+} */
+ /* .container{
+  border: 2px solid brown;
+width: 500px;
+height: 250px;
+position: relative;
+align-items: center;
+align-items: center;
+
+ }
+ .App{
+  display: flex;
+  justify-content: center;
+align-items: center;
+padding: 20px;
+} */
+  /* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #f0f4f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container */
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Heading */
+h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+/* Input Boxes */
+input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 80%;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Buttons */
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #4f534f;
+  color: white;
+
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+button:active {
+  background-color: #388e3c;
+}
+
+/* Result */
+h2 {
+  margin-top: 20px;
+  font-size: 20px;
+  color: #333;
+  font-weight: normal;
+}
+
+/* Labels */
+label {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #555;
+  display: block;
+}
+
+ 
